@@ -1,0 +1,1 @@
+SELECT DISTINCT P.name FROM people as P, movies as M, stars as S WHERE M.year = 2004 AND S.movie_id = M.id AND P.id = S.person_id ORDER BY P.birth ASC;
