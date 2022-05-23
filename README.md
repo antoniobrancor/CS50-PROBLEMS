@@ -13,3 +13,4 @@
 # sentimental readability grade texts based on reading level in Python.
 # speller a program that spell-checks a file, a la the below, using a hash table in C.
 # substitution encrypt text based on a key the user provides in C.
+# https://antoniobrancor.github.io/HTLMExercise/ HTML exercise.
